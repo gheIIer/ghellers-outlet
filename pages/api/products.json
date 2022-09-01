@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Skeletoon 1",
+    "price": "3",
+    "description": "Get this fire emoji pack for only $0.09! Includes 3 hot emojis: Forreal, Flooshed, and Sheesh!",
+    "image_url": "Carl.png",
+    "filename": "Carl.zip",
+    "hash": "QmZinrrXyuMgayY4RLXrd8tKpxmFr5egwosQnRi2UR6VqM",
+    "currency_url": "usdc.png"
+  }
+]
